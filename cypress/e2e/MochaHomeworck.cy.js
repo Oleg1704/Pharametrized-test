@@ -13,4 +13,4 @@
     
     it('input email and password', paramTest({testData: 'Hello',testData1: '12345'}));
         
-    });
+    }); 
